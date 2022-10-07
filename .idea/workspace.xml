@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96b430b4-c34e-4726-a503-68e59afc8d31" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProductList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/CashierInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/CustomerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/ManagerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/PrintReceiptInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/ApplicantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/PrintReceiptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/StaffTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/Qualification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/AccessDenialException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Applicant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/PrintReceipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/ProductFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Products.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-two-sq012-yomCode.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Fa74qkvX6SX9U3PFphbQC046oW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/decagon/Desktop/week-two-sq012-yomCode&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="models.exceptions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/models" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PrintReceiptTest.printReceiptAccessDenied">
+    <configuration name="PrintReceiptTest.printReceiptAccessDenied" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week-two-sq012-yomCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.PrintReceiptTest" />
+      <option name="METHOD_NAME" value="printReceiptAccessDenied" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintReceiptTest.productNotSoldAndReceiptNotPrinted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week-two-sq012-yomCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.PrintReceiptTest" />
+      <option name="METHOD_NAME" value="productNotSoldAndReceiptNotPrinted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintReceiptTest.productSoldAndReceiptIsPrinted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week-two-sq012-yomCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.PrintReceiptTest" />
+      <option name="METHOD_NAME" value="productSoldAndReceiptIsPrinted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaffTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week-two-sq012-yomCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.StaffTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests in week-two-sq012-yomCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week-two-sq012-yomCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests in week-two-sq012-yomCode" />
+        <item itemvalue="JUnit.StaffTest" />
+        <item itemvalue="JUnit.PrintReceiptTest.printReceiptAccessDenied" />
+        <item itemvalue="JUnit.PrintReceiptTest.productNotSoldAndReceiptNotPrinted" />
+        <item itemvalue="JUnit.PrintReceiptTest.productSoldAndReceiptIsPrinted" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96b430b4-c34e-4726-a503-68e59afc8d31" name="Changes" comment="" />
+      <created>1664718155504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664718155504</updated>
+      <workItem from="1664971171054" duration="43000" />
+      <workItem from="1664974334887" duration="11997000" />
+      <workItem from="1665172153380" duration="2974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/week_two_sq012_yomCode$CustomerTest_productIsNotPurchasedBasedOnAvailabilityStatus.ic" NAME="CustomerTest.productIsNotPurchasedBasedOnAvailabilityStatus Coverage Results" MODIFIED="1665054370399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Temp$StaffTest_sellProductSuccessful.ic" NAME="StaffTest.sellProductSuccessful Coverage Results" MODIFIED="1664898639906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Temp$Tests_in_Temp.ic" NAME="Tests in Temp Coverage Results" MODIFIED="1664899963765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/week_two_sq012_yomCode$CustomerTest.ic" NAME="CustomerTest Coverage Results" MODIFIED="1665054426941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Temp$CustomerTest.ic" NAME="CustomerTest Coverage Results" MODIFIED="1664897946556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/week_two_sq012_yomCode$Tests_in_Temp.ic" NAME="Tests in Temp Coverage Results" MODIFIED="1664949022010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Tests.*</FILTER>
+    </SUITE>
+  </component>
+</project>
